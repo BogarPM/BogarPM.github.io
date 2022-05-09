@@ -1,2 +1,2 @@
-# BogarPM.github.io
-Personal Website / Professional Portfolio
+# BogarPM.githum.io
+Personal Sebsite / Portfolio For personal stuff.
